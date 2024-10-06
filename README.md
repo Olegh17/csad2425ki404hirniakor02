@@ -4,7 +4,7 @@
 This is the repository of Oleh Hirniak, a student of the KI-404 group, dedicated to laboratory assignments for the CSAD course.
 ### Task details
 ---
-I am 2 in the list, so my task is
+I am 02 in the list, so my task is
 * Game: rock paper scissors
 * Config format: JSON
 
