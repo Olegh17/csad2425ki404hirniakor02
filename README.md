@@ -19,3 +19,4 @@ The following technologies will be used in this project
 * SW: .NET MAUI Blazor Hybrid App
 * HW: Arduino Uno R3 CH340
 * Testing Framework: xUnit
+.
